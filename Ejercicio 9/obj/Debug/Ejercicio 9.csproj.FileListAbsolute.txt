@@ -1,0 +1,10 @@
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 9\bin\Debug\Ejercicio 9.exe.config
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 9\bin\Debug\Ejercicio 9.exe
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 9\bin\Debug\Ejercicio 9.pdb
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 9\obj\Debug\Ejercicio 9.csproj.AssemblyReference.cache
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 9\obj\Debug\Ejercicio_9.Form1.resources
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 9\obj\Debug\Ejercicio_9.Properties.Resources.resources
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 9\obj\Debug\Ejercicio 9.csproj.GenerateResource.cache
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 9\obj\Debug\Ejercicio 9.csproj.CoreCompileInputs.cache
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 9\obj\Debug\Ejercicio 9.exe
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 9\obj\Debug\Ejercicio 9.pdb
