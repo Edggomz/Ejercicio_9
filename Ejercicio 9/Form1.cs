@@ -26,6 +26,11 @@ namespace Ejercicio_9
             txtPrecioArticulo.Clear();
         }
 
+        private void lblSon_Click(object sender, EventArgs e)
+        {
+
+        }
+
         public Form1()
         {
             InitializeComponent();

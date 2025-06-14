@@ -62,6 +62,7 @@
             // 
             // txtPrecioArticulo
             // 
+            this.txtPrecioArticulo.BackColor = System.Drawing.Color.Thistle;
             this.txtPrecioArticulo.Location = new System.Drawing.Point(76, 90);
             this.txtPrecioArticulo.Name = "txtPrecioArticulo";
             this.txtPrecioArticulo.Size = new System.Drawing.Size(100, 20);
@@ -69,6 +70,7 @@
             // 
             // txtDineroPago
             // 
+            this.txtDineroPago.BackColor = System.Drawing.Color.Thistle;
             this.txtDineroPago.Location = new System.Drawing.Point(76, 190);
             this.txtDineroPago.Name = "txtDineroPago";
             this.txtDineroPago.Size = new System.Drawing.Size(100, 20);
@@ -76,6 +78,7 @@
             // 
             // btnConvertir
             // 
+            this.btnConvertir.BackColor = System.Drawing.Color.SkyBlue;
             this.btnConvertir.Image = ((System.Drawing.Image)(resources.GetObject("btnConvertir.Image")));
             this.btnConvertir.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.btnConvertir.Location = new System.Drawing.Point(593, 47);
@@ -84,11 +87,12 @@
             this.btnConvertir.TabIndex = 15;
             this.btnConvertir.Text = "Convertir";
             this.btnConvertir.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.btnConvertir.UseVisualStyleBackColor = true;
+            this.btnConvertir.UseVisualStyleBackColor = false;
             this.btnConvertir.Click += new System.EventHandler(this.btnConvertir_Click);
             // 
             // btnSalir
             // 
+            this.btnSalir.BackColor = System.Drawing.Color.SkyBlue;
             this.btnSalir.Image = ((System.Drawing.Image)(resources.GetObject("btnSalir.Image")));
             this.btnSalir.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.btnSalir.Location = new System.Drawing.Point(593, 295);
@@ -97,7 +101,7 @@
             this.btnSalir.TabIndex = 16;
             this.btnSalir.Text = "Salir";
             this.btnSalir.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.btnSalir.UseVisualStyleBackColor = true;
+            this.btnSalir.UseVisualStyleBackColor = false;
             this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
             // grbConversion
@@ -113,6 +117,7 @@
             // 
             // txtCambio
             // 
+            this.txtCambio.BackColor = System.Drawing.Color.Thistle;
             this.txtCambio.Location = new System.Drawing.Point(105, 46);
             this.txtCambio.Name = "txtCambio";
             this.txtCambio.ReadOnly = true;
@@ -127,9 +132,11 @@
             this.lblSon.Size = new System.Drawing.Size(32, 13);
             this.lblSon.TabIndex = 1;
             this.lblSon.Text = "Son :";
+            this.lblSon.Click += new System.EventHandler(this.lblSon_Click);
             // 
             // btnBorrar
             // 
+            this.btnBorrar.BackColor = System.Drawing.Color.SkyBlue;
             this.btnBorrar.Image = ((System.Drawing.Image)(resources.GetObject("btnBorrar.Image")));
             this.btnBorrar.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.btnBorrar.Location = new System.Drawing.Point(593, 164);
@@ -138,13 +145,14 @@
             this.btnBorrar.TabIndex = 18;
             this.btnBorrar.Text = "Borrar";
             this.btnBorrar.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.btnBorrar.UseVisualStyleBackColor = true;
+            this.btnBorrar.UseVisualStyleBackColor = false;
             this.btnBorrar.Click += new System.EventHandler(this.btnBorrar_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.btnBorrar);
             this.Controls.Add(this.grbConversion);
